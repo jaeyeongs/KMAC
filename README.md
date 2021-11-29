@@ -6,7 +6,7 @@
 
 - 수료증
 
-![image](https://user-images.githubusercontent.com/87981867/143247983-7fef2a1a-86ed-4da2-8567-e2df493901a2.png)
+![Inked143247983-7fef2a1a-86ed-4da2-8567-e2df493901a2](https://user-images.githubusercontent.com/87981867/143873259-3c5a411f-6085-4d93-8924-965122f87363.jpg)
 
 
 ## 구매 기록 기반 상품 추천하기
